@@ -41,7 +41,9 @@ tags:
 
 | 编号 | 文件 | 摘要 |
 |------|------|------|
-| E01 | [[1_raw/articles/I2DL/exercise/exercise_02/summary]] | 环境配置（Anaconda/Colab）、数据集下载、作业提交 |
+| E01 | [[1_raw/articles/I2DL/exercise/exercise_01/1_introduction-summary]] | 环境配置（本地/Anaconda/Colab）、Numpy 基础、提交系统工作流 |
+| E02 | [[1_raw/articles/I2DL/exercise/exercise_02/summary]] | Anaconda/Colab 环境配置、数据集下载、作业提交流程 |
+| E03 | [[1_raw/articles/I2DL/exercise/exercise_03/1_cifar10-image-dataset-summary]] | Dataset 协议、Transform 管道、CIFAR-10 预处理 |
 
 ## 新增资源
 
@@ -105,4 +107,4 @@ graph TB
 
 - 2026-04-16: 创建索引，导入第一讲内容
 - 2026-04-16: 导入 L02-L12 全部 12 讲摘要
-- 2026-04-24: 添加练习 E01 摘要，新增 `References/PATTERN RECOGNITION.pdf`（待处理）
+- 2026-04-24: 添加练习 E01/E03 摘要，PATTERN RECOGNITION.pdf 暂无法处理

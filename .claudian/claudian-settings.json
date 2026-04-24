@@ -1,7 +1,7 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "haiku",
+  "model": "MiniMax-M2.7",
   "thinkingBudget": "off",
   "effortLevel": "medium",
   "serviceTier": "default",
@@ -32,8 +32,8 @@
       "enableSonnet1M": false,
       "customModels": "",
       "lastModel": "haiku",
-      "environmentVariables": "",
-      "environmentHash": ""
+      "environmentVariables": "ANTHROPIC_API_KEY=sk-api-hxqyquA4hQ7hGbJOdi5W2Ycz56tG1bPgLU2m6B7Vg-8-ddjDqFYlQ_uYuVXTozm2_7ZlFBkaNbgleXVupVmvkZwCi0gPMsoboRNLGs7feiShcu2CBufoH8A\n\nANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic\n\nANTHROPIC_MODEL=MiniMax-M2.7",
+      "environmentHash": "ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic|ANTHROPIC_MODEL=MiniMax-M2.7"
     },
     "codex": {
       "enabled": false,
@@ -51,7 +51,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "haiku"
+    "claude": "MiniMax-M2.7"
   },
   "savedProviderEffort": {
     "claude": "medium"
