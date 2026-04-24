@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_wiki/concepts/Autoencoder.md",
+                "file": "3_outputs/Q&A/深度学习与机器学习的关系.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autoencoder"
+              "title": "深度学习与机器学习的关系"
+            }
+          },
+          {
+            "id": "6f68320e42aa5dc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_outputs/Q&A/卷积神经网络是什么.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "卷积神经网络是什么"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,43 +208,43 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "bb5a9d50ebf5da0f",
+  "active": "6f68320e42aa5dc2",
   "lastOpenFiles": [
+    "3_outputs/Q&A/深度学习与机器学习的关系.md",
+    "3_outputs/Q&A/卷积神经网络是什么.md",
+    "3_outputs/Q&A/卷积神经网络是什么.md.tmp.6356.1777066539095",
+    "2_wiki/summaries/I2DL-Lecture-01-Introduction.md",
+    "2_wiki/concepts/Transfer Learning.md",
+    "2_wiki/concepts/Learning Rate.md",
+    "2_wiki/concepts/Generative Model.md",
+    "2_wiki/concepts/Feature Learning.md",
+    "2_wiki/concepts/Backpropagation Through Time.md",
+    "2_wiki/concepts/Attention Mechanism.md",
+    "2_wiki/concepts/AlexNet.md",
+    "2_wiki/concepts/Gradient Descent.md",
+    "2_wiki/concepts/Backpropagation Through Time.md.tmp.6356.1777063261791",
+    "2_wiki/concepts/Feature Learning.md.tmp.6356.1777063254224",
+    "2_wiki/concepts/Generative Model.md.tmp.6356.1777063248805",
+    "2_wiki/concepts/Transfer Learning.md.tmp.6356.1777063240849",
+    "2_wiki/concepts/Recurrent Neural Network.md",
+    "2_wiki/concepts/ResNet.md",
+    "2_wiki/concepts/ResNet.md.tmp.6356.1777063225621",
+    "2_wiki/concepts/Diffusion Model.md",
+    "2_wiki/concepts/VGGNet.md",
+    "2_wiki/concepts/Autoencoder.md",
+    "2_wiki/concepts/AlexNet.md.tmp.6356.1777063212240",
+    "2_wiki/concepts/Backpropagation.md",
+    "2_wiki/concepts/Receptive Field.md",
+    "2_wiki/concepts/Pooling.md",
+    "2_wiki/concepts/Pooling.md.tmp.6356.1777063199782",
+    "2_wiki/concepts/Convolution.md",
+    "2_wiki/concepts/Perceptron.md",
+    "2_wiki/concepts/Perceptron.md.tmp.6356.1777063189600",
     "2_wiki/concepts/Loss Function.md",
     "2_wiki/concepts/Chain Rule.md",
     "2_wiki/concepts/Chain Rule.md.tmp.6356.1777063177730",
     "2_wiki/concepts/Momentum.md",
-    "2_wiki/concepts/Momentum.md.tmp.6356.1777063172383",
-    "2_wiki/concepts/Learning Rate.md",
-    "2_wiki/concepts/Learning Rate.md.tmp.6356.1777063166588",
     "2_wiki/concepts/Optimizer.md",
-    "2_wiki/concepts/Optimizer.md.tmp.6356.1777063160868",
-    "2_wiki/concepts/Attention Mechanism.md",
-    "2_wiki/concepts/Multi-Head Attention.md",
-    "2_wiki/concepts/Multi-Head Attention.md.tmp.6356.1777063019534",
-    "2_wiki/concepts/Self-Attention.md",
-    "2_wiki/concepts/Self-Attention.md.tmp.6356.1777063007936",
-    "2_wiki/concepts/Positional Encoding.md",
-    "3_outputs/Q&A/深度学习与机器学习的关系.md",
-    "3_outputs/Q&A/深度学习与机器学习的关系.md.tmp.6356.1777062905440",
-    "3_outputs/Q&A/RAG-vs-轻量索引-适用边界.md",
-    "3_outputs/Q&A/RAG-vs-轻量索引-适用边界.md.tmp.6356.1777062855278",
-    "outputs/Q&A",
-    "outputs/Q",
-    "Convolution.md",
-    "2_wiki/indexes/I2DL Course Index.md",
-    "2_wiki/concepts/LSTM.md",
-    "2_wiki/concepts/Autoencoder.md",
-    "2_wiki/concepts/Diffusion Model.md",
-    "2_wiki/concepts/Neural Network.md",
-    "2_wiki/concepts/Backpropagation.md",
-    "2_wiki/concepts/Variational Autoencoder.md",
-    "2_wiki/concepts/Convolutional Neural Network.md",
-    "2_wiki/concepts/Gradient Descent.md",
-    "2_wiki/concepts/Graph Neural Network.md",
-    "2_wiki/concepts/Reinforcement Learning.md",
-    "2_wiki/concepts/GAN.md",
-    "2_wiki/summaries/I2DL-Lecture-06-Training-NN.md",
-    "2_wiki/concepts/Transformer.md"
+    "2_wiki/concepts/Multi-Head Attention.md"
   ]
 }

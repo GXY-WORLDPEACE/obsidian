@@ -4,8 +4,8 @@
   "title": "处理并索引 raw/articles/ 中的文章",
   "titleGenerationStatus": "success",
   "createdAt": 1777061611159,
-  "updatedAt": 1777063024843,
-  "lastResponseAt": 1777063024843,
+  "updatedAt": 1777066548163,
+  "lastResponseAt": 1777066548163,
   "sessionId": "d499d849-e69f-4aba-9275-f327942d66c0",
   "providerState": {
     "providerSessionId": "d499d849-e69f-4aba-9275-f327942d66c0"
@@ -15,12 +15,12 @@
   ],
   "usage": {
     "model": "MiniMax-M2.7",
-    "inputTokens": 26366,
+    "inputTokens": 104047,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 22375,
     "contextWindow": 200000,
-    "contextTokens": 48741,
-    "percentage": 24,
+    "contextTokens": 126422,
+    "percentage": 63,
     "contextWindowIsAuthoritative": true
   }
 }
