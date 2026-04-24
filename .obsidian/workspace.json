@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "62268db959110d66",
+        "id": "619a2f893571f9f6",
         "type": "tabs",
         "children": [
           {
-            "id": "c09945bdeeb67499",
+            "id": "1934d0b7700f0ac1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c09945bdeeb67499",
+  "active": "1934d0b7700f0ac1",
   "lastOpenFiles": [
     "未命名.base"
   ]
