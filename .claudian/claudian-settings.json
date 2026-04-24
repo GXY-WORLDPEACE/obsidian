@@ -2,7 +2,7 @@
   "userName": "",
   "permissionMode": "yolo",
   "model": "MiniMax-M2.7",
-  "thinkingBudget": "off",
+  "thinkingBudget": "medium",
   "effortLevel": "medium",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
@@ -58,9 +58,9 @@
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {
-    "claude": "off"
+    "claude": "medium"
   },
-  "lastCustomModel": "",
+  "lastCustomModel": "MiniMax-M2.7",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,

@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 849.5
+    "width": 513.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +189,9 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "14d098bfa9c7c966",
+  "active": "bb5a9d50ebf5da0f",
   "lastOpenFiles": [
+    "3_outputs/Q&A/2026-04-16-I2DL三者渐进问题解决.md",
     "1_raw/articles/I2DL/exercise/exercise_01/README.md",
     "2_wiki/indexes/I2DL Course Index.md",
     "命令.md",
