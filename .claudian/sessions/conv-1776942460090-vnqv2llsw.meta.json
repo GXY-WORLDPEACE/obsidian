@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776942460090-vnqv2llsw",
+  "providerId": "claude",
+  "title": "Explain lecture 3 content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776942460091,
+  "updatedAt": 1776952604684,
+  "lastResponseAt": 1776952604684,
+  "sessionId": "4c1c6c0f-f520-4626-83b6-f458f00e753b",
+  "providerState": {
+    "providerSessionId": "4c1c6c0f-f520-4626-83b6-f458f00e753b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 17580,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 17580,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

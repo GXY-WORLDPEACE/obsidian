@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776341699424-t2fqvz16z",
+  "providerId": "claude",
+  "title": "处理讲座文章生成摘要并更新索引",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776341699425,
+  "updatedAt": 1776344656884,
+  "lastResponseAt": 1776343660671,
+  "sessionId": "df45ebfb-e1ca-4ed4-b6d4-98d6b1268a4d",
+  "providerState": {
+    "providerSessionId": "df45ebfb-e1ca-4ed4-b6d4-98d6b1268a4d"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8555,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 8555,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

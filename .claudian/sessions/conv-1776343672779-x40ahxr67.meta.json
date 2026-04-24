@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776343672779-x40ahxr67",
+  "providerId": "claude",
+  "title": "Save knowledge base Q&A as Markdown files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776343672780,
+  "updatedAt": 1776942458257,
+  "lastResponseAt": 1776942458257,
+  "sessionId": "f0cdad9a-27c9-4a89-a631-78396e3dea99",
+  "providerState": {
+    "providerSessionId": "f0cdad9a-27c9-4a89-a631-78396e3dea99"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 102594,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 102594,
+    "percentage": 51,
+    "contextWindowIsAuthoritative": true
+  }
+}

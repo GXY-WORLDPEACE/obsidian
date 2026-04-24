@@ -1,0 +1,22 @@
+{
+  "id": "conv-1776299850844-hllnecvpw",
+  "providerId": "claude",
+  "title": "Summarize I2DL lectures and extract concepts",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776299850844,
+  "updatedAt": 1776341423085,
+  "lastResponseAt": 1776341423085,
+  "sessionId": "d03de524-3e06-49c3-aada-a39d1127ed20",
+  "providerState": {
+    "providerSessionId": "d03de524-3e06-49c3-aada-a39d1127ed20"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 90554,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 90554,
+    "percentage": 45
+  }
+}

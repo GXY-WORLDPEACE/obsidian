@@ -1,0 +1,22 @@
+{
+  "id": "conv-1776298847267-pizk0t70g",
+  "providerId": "claude",
+  "title": "为 I2DL 文章生成摘要并更新索引",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776298847276,
+  "updatedAt": 1776299812266,
+  "lastResponseAt": 1776299773457,
+  "sessionId": "b600d0c8-31ea-4e6f-a09b-4a5d9758a8a6",
+  "providerState": {
+    "providerSessionId": "b600d0c8-31ea-4e6f-a09b-4a5d9758a8a6"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 30306,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 18402,
+    "contextWindow": 200000,
+    "contextTokens": 48708,
+    "percentage": 24
+  }
+}
