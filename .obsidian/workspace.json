@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 731.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +191,20 @@
   },
   "active": "bb5a9d50ebf5da0f",
   "lastOpenFiles": [
+    "2_wiki/concepts/Dataset.md",
+    "2_wiki/summaries/I2DL-Exercise-02-Linear.md",
+    "2_wiki/summaries/I2DL-Exercise-01-Introduction.md",
+    "2_wiki/concepts/Dataset.md.tmp.28416.1777061749430",
+    "2_wiki/concepts/Google_Colab.md",
+    "2_wiki/concepts/Google_Colab.md.tmp.28416.1777061743364",
+    "2_wiki/concepts/Numpy.md",
+    "2_wiki/concepts/Numpy.md.tmp.28416.1777061736706",
+    "2_wiki/concepts/Python.md",
+    "2_wiki/concepts/Python.md.tmp.28416.1777061731012",
+    "2_wiki/summaries/I2DL-Exercise-03-CIFAR10.md",
+    "2_wiki/summaries/I2DL-Exercise-03-CIFAR10.md.tmp.28416.1777061704261",
+    "2_wiki/summaries/I2DL-Exercise-02-Linear.md.tmp.28416.1777061703730",
+    "2_wiki/summaries/I2DL-Exercise-01-Introduction.md.tmp.28416.1777061703237",
     "3_outputs/Q&A/2026-04-16-I2DL三者渐进问题解决.md",
     "1_raw/articles/I2DL/exercise/exercise_01/README.md",
     "2_wiki/indexes/I2DL Course Index.md",
@@ -202,13 +216,6 @@
     "2_wiki/indexes/I2DL Course Index.md.tmp.14704.1777061145281",
     "1_raw/articles/I2DL/exercise/exercise_03/1_cifar10-image-dataset-summary.md",
     "1_raw/articles/I2DL/exercise/exercise_01/1_introduction-summary.md",
-    "1_raw/articles/I2DL/exercise/exercise_01/1_introduction-summary.md.tmp.14704.1777061140563",
-    "1_raw/articles/Mobile Robotik/L9 Semantic, Object-level and Dynamic Mapping/L9 Semantic, Object-level and Dynamic Mapping.pdf",
-    "1_raw/articles/Mobile Robotik/L9 Semantic, Object-level and Dynamic Mapping/E9 Solutions.pdf",
-    "1_raw/articles/Mobile Robotik/L9 Semantic, Object-level and Dynamic Mapping/E9 Memory in 3D Mapping.pdf",
-    "1_raw/articles/Mobile Robotik/L9 Semantic, Object-level and Dynamic Mapping",
-    "1_raw/articles/Mobile Robotik/L8 Dense Mapping and SLAM/L8 Dense Mapping and SLAM.pdf",
-    "1_raw/articles/Mobile Robotik/L8 Dense Mapping and SLAM/E8_diff_drive_occ_sol.xxx",
     "3_outputs/Q&A/2026-04-24-I2DL-Lecture-4内容总结.md",
     "CLAUDE.md",
     "1_raw/articles/I2DL/exercise/exercise_02/summary.md"
