@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777059876099-m1rx0vk9k",
+  "providerId": "claude",
+  "title": "Identify the AI model version",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777059876100,
+  "updatedAt": 1777060614080,
+  "lastResponseAt": 1777060614080,
+  "sessionId": "0e33976d-be0e-4f7a-8ce6-af4e24719bbf",
+  "providerState": {
+    "providerSessionId": "0e33976d-be0e-4f7a-8ce6-af4e24719bbf"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 18395,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20514,
+    "contextWindow": 200000,
+    "contextTokens": 38909,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}
