@@ -4,8 +4,8 @@
   "title": "Identify the AI model version",
   "titleGenerationStatus": "success",
   "createdAt": 1777059876100,
-  "updatedAt": 1777061264599,
-  "lastResponseAt": 1777061264599,
+  "updatedAt": 1777061317121,
+  "lastResponseAt": 1777061317121,
   "sessionId": "9096e6db-5925-4386-8a80-2ec986823fb9",
   "providerState": {
     "providerSessionId": "9096e6db-5925-4386-8a80-2ec986823fb9",
@@ -15,12 +15,12 @@
   },
   "usage": {
     "model": "MiniMax-M2.7",
-    "inputTokens": 32536,
+    "inputTokens": 37264,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 32536,
-    "percentage": 16,
+    "contextTokens": 37264,
+    "percentage": 19,
     "contextWindowIsAuthoritative": true
   }
 }
