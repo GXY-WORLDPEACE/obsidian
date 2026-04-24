@@ -4,20 +4,22 @@
   "title": "处理并索引 raw/articles/ 中的文章",
   "titleGenerationStatus": "success",
   "createdAt": 1777061611159,
-  "updatedAt": 1777061817391,
-  "lastResponseAt": 1777061817391,
+  "updatedAt": 1777062150571,
+  "lastResponseAt": 1777062150571,
   "sessionId": "d499d849-e69f-4aba-9275-f327942d66c0",
   "providerState": {
     "providerSessionId": "d499d849-e69f-4aba-9275-f327942d66c0"
   },
+  "externalContextPaths": [
+    "G:\\obsidian"
+  ],
   "usage": {
     "model": "MiniMax-M2.7",
-    "inputTokens": 16159,
+    "inputTokens": 49500,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 16159,
-    "percentage": 8,
-    "contextWindowIsAuthoritative": true
+    "contextTokens": 49500,
+    "percentage": 25
   }
 }

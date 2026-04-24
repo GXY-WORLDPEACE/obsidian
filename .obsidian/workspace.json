@@ -191,6 +191,9 @@
   },
   "active": "bb5a9d50ebf5da0f",
   "lastOpenFiles": [
+    "lectures_extracted.txt",
+    "extract_lectures.py",
+    "extract_lectures.py.tmp.28416.1777062076785",
     "2_wiki/concepts/Dataset.md",
     "2_wiki/summaries/I2DL-Exercise-02-Linear.md",
     "2_wiki/summaries/I2DL-Exercise-01-Introduction.md",
@@ -212,8 +215,6 @@
     "python 代码.md",
     "1_raw/articles/Mobile Robotik/L1 Introduction/L1 Introduction.pdf",
     "3_outputs/Q&A/2026-04-16-深度学习解决的问题领域.md",
-    "2_wiki/indexes/I2DL Course Index.md.tmp.14704.1777061146527",
-    "2_wiki/indexes/I2DL Course Index.md.tmp.14704.1777061145281",
     "1_raw/articles/I2DL/exercise/exercise_03/1_cifar10-image-dataset-summary.md",
     "1_raw/articles/I2DL/exercise/exercise_01/1_introduction-summary.md",
     "3_outputs/Q&A/2026-04-24-I2DL-Lecture-4内容总结.md",
