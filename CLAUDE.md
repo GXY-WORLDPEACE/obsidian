@@ -17,8 +17,14 @@ This is an **Obsidian vault** - a knowledge base for note-taking and linking ide
 
 ## Active Plugins
 
-- **Claudian** - AI assistant plugin integrating Claude into Obsidian
+- **Claudian** - AI assistant plugin integrating Claude into Obsidian (configured with Haiku model, `yolo` permission mode)
 - **Obsidian Git** - Version control plugin for backing up the vault
+
+## Claude Code Configuration
+
+Claude Code is configured in `.claude/settings.json` with:
+- Model: MiniMax-M2 via custom endpoint (`api.minimaxi.com`)
+- Environment variables for API authentication are stored in this file
 
 ## Working with this Vault
 
