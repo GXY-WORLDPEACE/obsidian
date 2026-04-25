@@ -208,8 +208,9 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "6f68320e42aa5dc2",
+  "active": "bb5a9d50ebf5da0f",
   "lastOpenFiles": [
+    "3_outputs/Q&A/第三章节介绍的内容是什么.md",
     "3_outputs/Q&A/卷积神经网络是什么.md",
     "3_outputs/Q&A/深度学习与机器学习的关系.md",
     "3_outputs/Q&A/卷积神经网络是什么.md.tmp.6356.1777066539095",
@@ -244,7 +245,6 @@
     "2_wiki/concepts/Chain Rule.md",
     "2_wiki/concepts/Chain Rule.md.tmp.6356.1777063177730",
     "2_wiki/concepts/Momentum.md",
-    "2_wiki/concepts/Optimizer.md",
-    "2_wiki/concepts/Multi-Head Attention.md"
+    "2_wiki/concepts/Optimizer.md"
   ]
 }
