@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_outputs/Q&A/卷积神经网络是什么.md",
+                "file": "3_outputs/Q&A/深度学习与机器学习的关系.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卷积神经网络是什么"
+              "title": "深度学习与机器学习的关系"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "6f68320e42aa5dc2",
   "lastOpenFiles": [
-    "3_outputs/Q&A/深度学习与机器学习的关系.md",
     "3_outputs/Q&A/卷积神经网络是什么.md",
+    "3_outputs/Q&A/深度学习与机器学习的关系.md",
     "3_outputs/Q&A/卷积神经网络是什么.md.tmp.6356.1777066539095",
     "2_wiki/summaries/I2DL-Lecture-01-Introduction.md",
     "2_wiki/concepts/Transfer Learning.md",
