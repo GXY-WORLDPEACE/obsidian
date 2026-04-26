@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "857bf9e24509bf20",
+        "id": "e009150aaa668603",
         "type": "tabs",
         "children": [
           {
-            "id": "9256bb632083dfda",
+            "id": "08ee60f60e8f9394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_outputs/Q&A/深度学习与机器学习的关系.md",
-                "mode": "source",
+                "file": "Clippings/Viel Stress für wenig Geld Selbstständig in Deutschland  ZDF.reportage.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "深度学习与机器学习的关系"
+              "title": "Viel Stress für wenig Geld Selbstständig in Deutschland  ZDF.reportage"
             }
           }
         ]
@@ -193,10 +193,13 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "9256bb632083dfda",
+  "active": "08ee60f60e8f9394",
   "lastOpenFiles": [
-    "汽车/Chinesische E-Autos immer schneller, besser, verrückter - können deutsche Hersteller mithalten.md",
+    "Clippings/Viel Stress für wenig Geld Selbstständig in Deutschland  ZDF.reportage.md",
+    "Clippings",
+    "Untitled.md",
     "3_outputs/Q&A/深度学习与机器学习的关系.md",
+    "汽车/Chinesische E-Autos immer schneller, besser, verrückter - können deutsche Hersteller mithalten.md",
     "汽车",
     "2_wiki/summaries/I2DL-Lecture-02-Machine-Learning-Basics.md",
     "2_wiki/summaries/I2DL-Lecture-03-Intro-to-NN.md",
@@ -227,9 +230,6 @@
     "2_wiki/concepts/Backpropagation.md",
     "2_wiki/concepts/Receptive Field.md",
     "2_wiki/concepts/Pooling.md",
-    "2_wiki/concepts/Pooling.md.tmp.6356.1777063199782",
-    "2_wiki/concepts/Convolution.md",
-    "2_wiki/concepts/Perceptron.md",
-    "2_wiki/concepts/Perceptron.md.tmp.6356.1777063189600"
+    "2_wiki/concepts/Pooling.md.tmp.6356.1777063199782"
   ]
 }
