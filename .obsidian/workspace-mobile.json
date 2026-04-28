@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2_wiki/summaries/I2DL-Lecture-02-Machine-Learning-Basics.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a86790671d04baf",
+  "active": "300bd4eb8448d9c9",
   "lastOpenFiles": [
     "3_outputs/Q&A/深度学习与机器学习的关系.md",
     "3_outputs/Q&A/卷积神经网络是什么.md",
