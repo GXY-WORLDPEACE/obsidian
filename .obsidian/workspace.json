@@ -171,8 +171,8 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "claudian-view"
+              "icon": "bot",
+              "title": "Claudian"
             }
           },
           {
@@ -201,12 +201,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "claudian:Open Claudian": false
     }
   },
   "active": "9df29c6b25bc3fb1",
   "lastOpenFiles": [
     "3_outputs/Q&A/卷积神经网络是什么.md",
+    "3_outputs/Q&A/第三章节介绍的内容是什么.md",
     "未命名888.md",
     "test",
     "test",
@@ -220,13 +222,12 @@
     "Clippings/Viel Stress für wenig Geld Selbstständig in Deutschland  ZDF.reportage.md",
     "Clippings",
     "Untitled.md",
-    "3_outputs/health/深度学习与机器学习的关系.md",
+    "3_outputs/Q&A/深度学习与机器学习的关系.md",
     "汽车/Chinesische E-Autos immer schneller, besser, verrückter - können deutsche Hersteller mithalten.md",
     "汽车",
     "2_wiki/summaries/I2DL-Lecture-02-Machine-Learning-Basics.md",
     "2_wiki/summaries/I2DL-Lecture-03-Intro-to-NN.md",
     "2_wiki/indexes/I2DL Course Index.md",
-    "3_outputs/Q&A/第三章节介绍的内容是什么.md",
     "3_outputs/Q&A/卷积神经网络是什么.md.tmp.6356.1777066539095",
     "2_wiki/summaries/I2DL-Lecture-01-Introduction.md",
     "2_wiki/concepts/Transfer Learning.md",
