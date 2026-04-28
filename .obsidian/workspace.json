@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 320.5
   },
   "right": {
     "id": "21b010ec5a507814",
@@ -205,10 +205,11 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "de1762cca7003b84",
+  "active": "f774c9cc118788a4",
   "lastOpenFiles": [
-    "3_outputs/Q&A/第三章节介绍的内容是什么.md",
+    "3_outputs/Q&A/第五章的内容是什么 是的.md",
     "3_outputs/Q&A/第五章的内容是什么.md",
+    "3_outputs/Q&A/第三章节介绍的内容是什么.md",
     "3_outputs/Q&A/第五章的内容是什么.md.tmp.5580.1777377663614",
     "3_outputs/Q&A/深度学习与机器学习的关系.md",
     "3_outputs/Q&A/卷积神经网络是什么.md",
@@ -242,7 +243,6 @@
     "2_wiki/concepts/Gradient Descent.md",
     "2_wiki/concepts/Backpropagation Through Time.md.tmp.6356.1777063261791",
     "2_wiki/concepts/Feature Learning.md.tmp.6356.1777063254224",
-    "2_wiki/concepts/Recurrent Neural Network.md",
-    "2_wiki/concepts/ResNet.md"
+    "2_wiki/concepts/Recurrent Neural Network.md"
   ]
 }
