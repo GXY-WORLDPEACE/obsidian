@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 200
   },
   "right": {
     "id": "21b010ec5a507814",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Meta employees react to pending job cuts '28 days of hell' 的反向链接列表"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Meta employees react to pending job cuts '28 days of hell' 的出链列表"
             }
           },
           {
@@ -150,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -165,8 +166,8 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
             }
           },
           {
@@ -184,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 572.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,13 +196,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "claudian:Open Claudian": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9df29c6b25bc3fb1",
+  "active": "de1762cca7003b84",
   "lastOpenFiles": [
+    "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
+    "1_raw/web news/Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson.md",
     "conflict-files-obsidian-git.md",
+    "1_raw/web news",
     "1_raw/articles/web news/Microwave blasters can down even jam-proof drones.md",
     "1_raw/articles/web news/Pasted image 20260428090822.png",
     "1_raw/articles/web news",
@@ -235,9 +237,6 @@
     "2_wiki/concepts/ResNet.md",
     "2_wiki/concepts/ResNet.md.tmp.6356.1777063225621",
     "2_wiki/concepts/Diffusion Model.md",
-    "2_wiki/concepts/VGGNet.md",
-    "2_wiki/concepts/Autoencoder.md",
-    "2_wiki/concepts/AlexNet.md.tmp.6356.1777063212240",
-    "2_wiki/concepts/Backpropagation.md"
+    "2_wiki/concepts/VGGNet.md"
   ]
 }
