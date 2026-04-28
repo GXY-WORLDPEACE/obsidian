@@ -197,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f774c9cc118788a4",
+  "active": "9df29c6b25bc3fb1",
   "lastOpenFiles": [
+    "test",
     "test",
     "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
     "1_raw/web news/Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson.md",
@@ -234,7 +235,6 @@
     "2_wiki/concepts/Transfer Learning.md.tmp.6356.1777063240849",
     "2_wiki/concepts/Recurrent Neural Network.md",
     "2_wiki/concepts/ResNet.md",
-    "2_wiki/concepts/ResNet.md.tmp.6356.1777063225621",
     "2_wiki/concepts/Diffusion Model.md"
   ]
 }
