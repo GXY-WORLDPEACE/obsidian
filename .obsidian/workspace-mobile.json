@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_outputs/Q&A/第五章的内容是什么.md",
-                "mode": "source",
+                "file": "web news/1.5 Hour English Conversation Lesson.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第五章的内容是什么"
+              "title": "1.5 Hour English Conversation Lesson"
             }
           }
         ]
@@ -57,7 +57,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "搜索"
+          "title": "Suchen"
         }
       },
       {
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "1ae450d8e934eaaf",
@@ -178,8 +178,12 @@
   },
   "active": "2a86790671d04baf",
   "lastOpenFiles": [
-    "2_wiki/summaries/I2DL-Lecture-02-Machine-Learning-Basics.md",
     "3_outputs/Q&A/第五章的内容是什么.md",
+    "web news/1.5 Hour English Conversation Lesson.md",
+    "web news",
+    "/web news/1.5 Hour English Conversation Lesson.md",
+    "/web news",
+    "2_wiki/summaries/I2DL-Lecture-02-Machine-Learning-Basics.md",
     "/3_outputs/Q&A/第五章的内容是什么.md",
     "3_outputs/health/深度学习与机器学习的关系.md",
     "/3_outputs/Q&A/深度学习与机器学习的关系.md",
