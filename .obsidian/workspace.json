@@ -11,14 +11,10 @@
             "id": "08ee60f60e8f9394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_raw/articles/web news/Microwave blasters can down even jam-proof drones.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Microwave blasters can down even jam-proof drones"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 300
   },
   "right": {
     "id": "21b010ec5a507814",
@@ -178,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,11 +189,8 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "08ee60f60e8f9394",
+  "active": "9df29c6b25bc3fb1",
   "lastOpenFiles": [
-    "1_raw/articles/web news/Pasted image 20260428090822.png",
-    "1_raw/articles/web news/Microwave blasters can down even jam-proof drones.md",
-    "1_raw/articles/web news",
     "Clippings/Viel Stress für wenig Geld Selbstständig in Deutschland  ZDF.reportage.md",
     "Clippings",
     "Untitled.md",
@@ -230,6 +223,9 @@
     "2_wiki/concepts/VGGNet.md",
     "2_wiki/concepts/Autoencoder.md",
     "2_wiki/concepts/AlexNet.md.tmp.6356.1777063212240",
-    "2_wiki/concepts/Backpropagation.md"
+    "2_wiki/concepts/Backpropagation.md",
+    "2_wiki/concepts/Receptive Field.md",
+    "2_wiki/concepts/Pooling.md",
+    "2_wiki/concepts/Pooling.md.tmp.6356.1777063199782"
   ]
 }
