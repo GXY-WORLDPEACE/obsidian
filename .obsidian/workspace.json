@@ -11,10 +11,14 @@
             "id": "08ee60f60e8f9394",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "web news/Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 200
   },
   "right": {
     "id": "21b010ec5a507814",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "web news/Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "web news/Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson 的出链列表"
             }
           },
           {
@@ -150,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "web news/Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson 的大纲"
             }
           },
           {
@@ -203,6 +209,8 @@
   "active": "9df29c6b25bc3fb1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "web news/Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson.md",
+    "web news",
     "1_raw/articles/web news/Microwave blasters can down even jam-proof drones.md",
     "1_raw/articles/web news/Pasted image 20260428090822.png",
     "1_raw/articles/web news",
@@ -236,8 +244,6 @@
     "2_wiki/concepts/ResNet.md.tmp.6356.1777063225621",
     "2_wiki/concepts/Diffusion Model.md",
     "2_wiki/concepts/VGGNet.md",
-    "2_wiki/concepts/Autoencoder.md",
-    "2_wiki/concepts/AlexNet.md.tmp.6356.1777063212240",
-    "2_wiki/concepts/Backpropagation.md"
+    "2_wiki/concepts/Autoencoder.md"
   ]
 }
