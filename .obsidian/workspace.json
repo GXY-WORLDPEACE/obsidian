@@ -11,14 +11,10 @@
             "id": "08ee60f60e8f9394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Meta employees react to pending job cuts '28 days of hell'"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 210.5
   },
   "right": {
     "id": "21b010ec5a507814",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Meta employees react to pending job cuts '28 days of hell' 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Meta employees react to pending job cuts '28 days of hell' 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Meta employees react to pending job cuts '28 days of hell' 的大纲"
+              "title": "conflict-files-obsidian-git 的大纲"
             }
           },
           {
@@ -208,10 +202,7 @@
   },
   "active": "9df29c6b25bc3fb1",
   "lastOpenFiles": [
-    "1_raw/web news/Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson.md",
-    "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
     "conflict-files-obsidian-git.md",
-    "1_raw/web news",
     "1_raw/articles/web news/Microwave blasters can down even jam-proof drones.md",
     "1_raw/articles/web news/Pasted image 20260428090822.png",
     "1_raw/articles/web news",
@@ -244,6 +235,9 @@
     "2_wiki/concepts/ResNet.md",
     "2_wiki/concepts/ResNet.md.tmp.6356.1777063225621",
     "2_wiki/concepts/Diffusion Model.md",
-    "2_wiki/concepts/VGGNet.md"
+    "2_wiki/concepts/VGGNet.md",
+    "2_wiki/concepts/Autoencoder.md",
+    "2_wiki/concepts/AlexNet.md.tmp.6356.1777063212240",
+    "2_wiki/concepts/Backpropagation.md"
   ]
 }
