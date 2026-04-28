@@ -11,10 +11,14 @@
             "id": "f774c9cc118788a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "未命名 的出链列表"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -197,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de1762cca7003b84",
+  "active": "f774c9cc118788a4",
   "lastOpenFiles": [
+    "未命名.md",
     "test",
     "test",
     "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
@@ -232,7 +240,6 @@
     "2_wiki/concepts/Backpropagation Through Time.md.tmp.6356.1777063261791",
     "2_wiki/concepts/Feature Learning.md.tmp.6356.1777063254224",
     "2_wiki/concepts/Generative Model.md.tmp.6356.1777063248805",
-    "2_wiki/concepts/Transfer Learning.md.tmp.6356.1777063240849",
     "2_wiki/concepts/Recurrent Neural Network.md",
     "2_wiki/concepts/ResNet.md",
     "2_wiki/concepts/Diffusion Model.md"
