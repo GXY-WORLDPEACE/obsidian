@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_outputs/Q&A/第三章节介绍的内容是什么.md",
-                "mode": "source",
+                "file": "3_outputs/Q&A/卷积神经网络是什么.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第三章节介绍的内容是什么"
+              "title": "卷积神经网络是什么"
             }
           }
         ]
@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "文件列表"
@@ -150,28 +150,38 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "300bd4eb8448d9c9",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "52d0796b69556de1",
   "lastOpenFiles": [
-    "3_outputs/Q&A/卷积神经网络是什么.md",
     "3_outputs/Q&A/深度学习与机器学习的关系.md",
-    "/3_outputs/Q&A/第三章节介绍的内容是什么.md",
     "3_outputs/Q&A/第三章节介绍的内容是什么.md",
+    "3_outputs/Q&A/卷积神经网络是什么.md",
+    "/3_outputs/Q&A/第三章节介绍的内容是什么.md",
     "/3_outputs/Q&A",
     "/3_outputs"
   ]
