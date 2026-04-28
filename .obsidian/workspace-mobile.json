@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_outputs/Q&A/第五章的内容是什么 是的.md",
-                "mode": "preview",
+                "file": "3_outputs/Q&A/第五章的内容是什么.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第五章的内容是什么 是的"
+              "title": "第五章的内容是什么"
             }
           }
         ]
@@ -179,7 +179,7 @@
   "active": "2a86790671d04baf",
   "lastOpenFiles": [
     "2_wiki/summaries/I2DL-Lecture-02-Machine-Learning-Basics.md",
-    "3_outputs/Q&A/第五章的内容是什么 是的.md",
+    "3_outputs/Q&A/第五章的内容是什么.md",
     "/3_outputs/Q&A/第五章的内容是什么.md",
     "3_outputs/health/深度学习与机器学习的关系.md",
     "/3_outputs/Q&A/深度学习与机器学习的关系.md",
