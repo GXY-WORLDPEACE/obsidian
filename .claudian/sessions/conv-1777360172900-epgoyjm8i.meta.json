@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777360172900-epgoyjm8i",
+  "providerId": "claude",
+  "title": "Summarize article content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777360172900,
+  "updatedAt": 1777360191115,
+  "lastResponseAt": 1777360191115,
+  "sessionId": "18ad0743-b03f-42b3-b6a2-fbf5c485db3a",
+  "providerState": {
+    "providerSessionId": "18ad0743-b03f-42b3-b6a2-fbf5c485db3a"
+  },
+  "currentNote": "1_raw/articles/web news/Microwave blasters can down even jam-proof drones.md",
+  "usage": {
+    "model": "MiniMax-M2.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

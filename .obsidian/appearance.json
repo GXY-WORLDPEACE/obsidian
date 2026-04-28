@@ -1,5 +1,8 @@
 {
   "accentColor": "#5c5c5c",
-  "cssTheme": "Gitsidian",
-  "theme": "obsidian"
+  "cssTheme": "",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Times New Roman",
+  "textFontFamily": "Times New Roman",
+  "baseFontSize": 18
 }

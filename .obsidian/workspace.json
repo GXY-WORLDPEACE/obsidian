@@ -11,10 +11,14 @@
             "id": "08ee60f60e8f9394",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1_raw/articles/web news/Microwave blasters can down even jam-proof drones.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Microwave blasters can down even jam-proof drones"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "21b010ec5a507814",
@@ -165,8 +169,8 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "claudian-view"
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
         ],
@@ -174,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 641.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +189,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "claudian:Open Claudian": false
     }
   },
   "active": "08ee60f60e8f9394",
   "lastOpenFiles": [
+    "1_raw/articles/web news/Pasted image 20260428090822.png",
+    "1_raw/articles/web news/Microwave blasters can down even jam-proof drones.md",
+    "1_raw/articles/web news",
     "Clippings/Viel Stress für wenig Geld Selbstständig in Deutschland  ZDF.reportage.md",
     "Clippings",
     "Untitled.md",
@@ -222,9 +230,6 @@
     "2_wiki/concepts/VGGNet.md",
     "2_wiki/concepts/Autoencoder.md",
     "2_wiki/concepts/AlexNet.md.tmp.6356.1777063212240",
-    "2_wiki/concepts/Backpropagation.md",
-    "2_wiki/concepts/Receptive Field.md",
-    "2_wiki/concepts/Pooling.md",
-    "2_wiki/concepts/Pooling.md.tmp.6356.1777063199782"
+    "2_wiki/concepts/Backpropagation.md"
   ]
 }
