@@ -205,8 +205,9 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "f774c9cc118788a4",
+  "active": "9df29c6b25bc3fb1",
   "lastOpenFiles": [
+    "未命名",
     "3_outputs/Q&A/第五章的内容是什么 是的.md",
     "3_outputs/Q&A/第五章的内容是什么.md",
     "3_outputs/Q&A/第三章节介绍的内容是什么.md",
@@ -242,7 +243,6 @@
     "2_wiki/concepts/AlexNet.md",
     "2_wiki/concepts/Gradient Descent.md",
     "2_wiki/concepts/Backpropagation Through Time.md.tmp.6356.1777063261791",
-    "2_wiki/concepts/Feature Learning.md.tmp.6356.1777063254224",
-    "2_wiki/concepts/Recurrent Neural Network.md"
+    "2_wiki/concepts/Feature Learning.md.tmp.6356.1777063254224"
   ]
 }
