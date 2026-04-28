@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web news/Meta employees react to pending job cuts '28 days of hell'.md",
+                "file": "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web news/Meta employees react to pending job cuts '28 days of hell'.md",
+                "file": "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web news/Meta employees react to pending job cuts '28 days of hell'.md",
+                "file": "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web news/Meta employees react to pending job cuts '28 days of hell'.md",
+                "file": "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,12 +206,12 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "08ee60f60e8f9394",
+  "active": "9df29c6b25bc3fb1",
   "lastOpenFiles": [
-    "web news/Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson.md",
-    "web news/Meta employees react to pending job cuts '28 days of hell'.md",
+    "1_raw/web news/Speak English Clearly in 90 Minutes Advanced Vocabulary Lesson.md",
+    "1_raw/web news/Meta employees react to pending job cuts '28 days of hell'.md",
     "conflict-files-obsidian-git.md",
-    "web news",
+    "1_raw/web news",
     "1_raw/articles/web news/Microwave blasters can down even jam-proof drones.md",
     "1_raw/articles/web news/Pasted image 20260428090822.png",
     "1_raw/articles/web news",
