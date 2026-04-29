@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "web news/1.5 Hour English Conversation Lesson.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 200
   },
   "right": {
     "id": "21b010ec5a507814",
