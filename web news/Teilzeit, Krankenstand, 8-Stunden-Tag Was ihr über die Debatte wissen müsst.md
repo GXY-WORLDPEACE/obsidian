@@ -24,6 +24,7 @@ tags:
 
 **1:13** · Diese Produktivität pro Stunde liegt über dem Spitzenfeld der OECD. ==Aber wir schöpfen dieses Potenzial noch nicht voll aus.==
 
+
 **1:21** · Das sagt die Bundeswirtschaftsministerin Katharina Reiche. CSU Chef Markus Söder schlägt vor, schon eine Stunde mehr Arbeit in der Woche würde enorm viel Wirtschaftswachstum bringen und sei nicht zu viel verlangt. Wer also arbeiten kann, soll so viel wie möglich arbeiten und so viel wie möglich zur Wertschöpfung und damit zu einem besseren Wirtschaftswachstum beitragen.
 
 **1:39** · Wie wäre es also, wenn wir in Deutschland künftig mehr als 8 Stunden am Tag arbeiten? Dass wir zumindest in der Regel maximal 8 Stunden pro Tag arbeiten, ist kein Zufall, ==sondern hart erkämpft.== Im Grunde ist es die Urform dessen, was wir heute vielleicht unter Worklife Balance verstehen. Im 19.
