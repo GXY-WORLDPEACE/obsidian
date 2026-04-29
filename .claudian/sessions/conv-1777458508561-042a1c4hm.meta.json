@@ -4,8 +4,8 @@
   "title": "Find all highlighted parts in article",
   "titleGenerationStatus": "success",
   "createdAt": 1777458508561,
-  "updatedAt": 1777458538673,
-  "lastResponseAt": 1777458538673,
+  "updatedAt": 1777462157723,
+  "lastResponseAt": 1777462157723,
   "sessionId": "03cc1a78-6eb7-46cf-a0d7-b08a1239fb8a",
   "providerState": {
     "providerSessionId": "03cc1a78-6eb7-46cf-a0d7-b08a1239fb8a"
@@ -13,12 +13,12 @@
   "currentNote": "web news/1.5 Hour English Conversation Lesson.md",
   "usage": {
     "model": "MiniMax-M2.7",
-    "inputTokens": 4790,
+    "inputTokens": 9051,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 22375,
     "contextWindow": 200000,
-    "contextTokens": 27165,
-    "percentage": 14,
+    "contextTokens": 31426,
+    "percentage": 16,
     "contextWindowIsAuthoritative": true
   }
 }
