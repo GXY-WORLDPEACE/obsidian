@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +205,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "0c0146116a65bc63",
+  "active": "bb5a9d50ebf5da0f",
   "lastOpenFiles": [
     "web news/What I actually do as a Product Manager (in 2023).md",
     "web news/1.5 小时英语会话课程.md",
