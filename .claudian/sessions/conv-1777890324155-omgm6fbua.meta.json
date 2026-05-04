@@ -4,8 +4,8 @@
   "title": "Summarize product manager duties from articles",
   "titleGenerationStatus": "success",
   "createdAt": 1777890324155,
-  "updatedAt": 1777890355218,
-  "lastResponseAt": 1777890355218,
+  "updatedAt": 1777899250025,
+  "lastResponseAt": 1777899250025,
   "sessionId": "8043812e-4878-4a6f-b56e-290dc2ecb89e",
   "providerState": {
     "providerSessionId": "8043812e-4878-4a6f-b56e-290dc2ecb89e"
@@ -13,11 +13,11 @@
   "currentNote": "web news/What I actually do as a Product Manager (in 2023).md",
   "usage": {
     "model": "MiniMax-M2.7",
-    "inputTokens": 7994,
+    "inputTokens": 8855,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 7994,
+    "contextTokens": 8855,
     "percentage": 4,
     "contextWindowIsAuthoritative": true
   }
