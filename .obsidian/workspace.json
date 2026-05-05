@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web news/What I actually do as a Product Manager (in 2023).md",
-                "mode": "preview",
+                "file": "web news/Robotik-Professor DAS ist die Zukunft! Humanoide Roboter, LLMs, AGI & China (Prof. Alois Knoll).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What I actually do as a Product Manager (in 2023)"
+              "title": "Robotik-Professor DAS ist die Zukunft! Humanoide Roboter, LLMs, AGI & China (Prof. Alois Knoll)"
             }
           }
         ]
@@ -205,9 +205,10 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "bb5a9d50ebf5da0f",
+  "active": "0c0146116a65bc63",
   "lastOpenFiles": [
     "web news/What I actually do as a Product Manager (in 2023).md",
+    "web news/Robotik-Professor DAS ist die Zukunft! Humanoide Roboter, LLMs, AGI & China (Prof. Alois Knoll).md",
     "web news/1.5 小时英语会话课程.md",
     "web news/1.5 Hour English Conversation Lesson.md",
     "web news/Teilzeit, Krankenstand, 8-Stunden-Tag Was ihr über die Debatte wissen müsst.md",
@@ -243,7 +244,6 @@
     "2_wiki/concepts/Transfer Learning.md",
     "2_wiki/concepts/Learning Rate.md",
     "2_wiki/concepts/Generative Model.md",
-    "2_wiki/concepts/Feature Learning.md",
-    "2_wiki/concepts/Backpropagation Through Time.md"
+    "2_wiki/concepts/Feature Learning.md"
   ]
 }
