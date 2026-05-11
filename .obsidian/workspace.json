@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web news/1.5 Hour English Conversation Lesson.md",
+                "file": "web news/Talk about HOBBIES Fluently in English.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 Hour English Conversation Lesson"
+              "title": "Talk about HOBBIES Fluently in English"
             }
           }
         ]
@@ -208,10 +208,11 @@
   },
   "active": "0c0146116a65bc63",
   "lastOpenFiles": [
+    "web news/1.5 Hour English Conversation Lesson.md",
+    "web news/Talk about HOBBIES Fluently in English.md",
     "web news/Teilzeit, Krankenstand, 8-Stunden-Tag Was ihr über die Debatte wissen müsst.md",
     "web news/What I actually do as a Product Manager (in 2023).md",
     "web news/Robotik-Professor DAS ist die Zukunft! Humanoide Roboter, LLMs, AGI & China (Prof. Alois Knoll).md",
-    "web news/1.5 Hour English Conversation Lesson.md",
     "web news/1.5 小时英语会话课程.md",
     "Pasted image 20260429124212.png",
     "3_outputs/Q&A/第五章的内容是什么.md",
@@ -244,7 +245,6 @@
     "2_wiki/summaries/I2DL-Lecture-01-Introduction.md",
     "2_wiki/concepts/Transfer Learning.md",
     "2_wiki/concepts/Learning Rate.md",
-    "2_wiki/concepts/Generative Model.md",
-    "2_wiki/concepts/Feature Learning.md"
+    "2_wiki/concepts/Generative Model.md"
   ]
 }
