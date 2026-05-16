@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 446.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +205,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "0c0146116a65bc63",
+  "active": "9df29c6b25bc3fb1",
   "lastOpenFiles": [
     "web news/1.5 Hour English Conversation Lesson.md",
     "web news/Talk about HOBBIES Fluently in English.md",
