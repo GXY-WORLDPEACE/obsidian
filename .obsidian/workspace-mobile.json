@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_outputs/Q&A/卷积神经网络是什么.md",
+                "file": "web news/1.5 小时英语会话课程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卷积神经网络是什么"
+              "title": "1.5 小时英语会话课程"
             }
           }
         ]
@@ -178,6 +178,8 @@
   },
   "active": "2a86790671d04baf",
   "lastOpenFiles": [
+    "web news/1.5 Hour English Conversation Lesson.md",
+    "3_outputs/Q&A/卷积神经网络是什么.md",
     "3_outputs/Q&A/第三章节介绍的内容是什么.md",
     "2_wiki/summaries/I2DL-Lecture-01-Introduction.md",
     "1_raw/articles/I2DL/lectures/1.Introduction to the lecture.pdf",
@@ -189,7 +191,6 @@
     "web news/Robotik-Professor DAS ist die Zukunft! Humanoide Roboter, LLMs, AGI & China (Prof. Alois Knoll).md",
     "/web news/What I actually do as a Product Manager (in 2023).md",
     "web news/What I actually do as a Product Manager (in 2023).md",
-    "web news/1.5 Hour English Conversation Lesson.md",
     "/web news/1.5 小时英语会话课程.md",
     "Pasted image 20260429124212.png",
     "web news/Teilzeit, Krankenstand, 8-Stunden-Tag Was ihr über die Debatte wissen müsst.md",
@@ -210,7 +211,6 @@
     "3_outputs/health",
     "/3_outputs/health/卷积神经网络是什么.md",
     "/未命名888.md",
-    "3_outputs/Q&A/卷积神经网络是什么.md",
     "/3_outputs/Q&A/第三章节介绍的内容是什么.md"
   ]
 }
