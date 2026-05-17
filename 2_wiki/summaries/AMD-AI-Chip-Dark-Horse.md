@@ -104,4 +104,4 @@ AMD垄断游戏机市场：
 
 **相关概念**： [[concepts/Semiconductor]] | [[concepts/AI-Chip]] | [[concepts/Investment-Framework]]
 
-**原始来源**： [[1_raw/X/《财报不写的美股发家史》第10期：AI芯片的暗战之王（$AMD）.md]]
+**原始来源**： [[《财报不写的美股发家史》第10期：AI芯片的暗战之王（$AMD）]]

@@ -111,4 +111,4 @@ AI/HBM业务 → 20-25倍P/E
 
 **相关概念**： [[concepts/Micron]] | [[concepts/HBM3E]] | [[concepts/SOTP-Valuation]]
 
-**原始来源**： [[1_raw/X/重估美光 MU：内存超级周期，如何颠覆华尔街传统估值逻辑.md]]
+**原始来源**： [[重估美光 MU：内存超级周期，如何颠覆华尔街传统估值逻辑]]

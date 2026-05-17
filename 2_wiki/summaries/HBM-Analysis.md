@@ -76,4 +76,4 @@ HBM不是普通商品，而是AI加速器性能的一部分。
 
 **相关概念**： [[concepts/HBM]] | [[concepts/DRAM]] | [[concepts/Memory-Hierarchy]]
 
-**原始来源**： [[1_raw/X/为什么我长期坚定看好HBM，但短期觉得存储板块过热.md]]
+**原始来源**： [[为什么我长期坚定看好HBM，但短期觉得存储板块过热]]
