@@ -4,20 +4,20 @@
   "title": "Summarize and index new articles from raw/articles",
   "titleGenerationStatus": "success",
   "createdAt": 1779010858635,
-  "updatedAt": 1779011096426,
-  "lastResponseAt": 1779011096426,
+  "updatedAt": 1779011737669,
+  "lastResponseAt": 1779011737669,
   "sessionId": "bf4974fd-2b21-4e5d-b73d-679ae98f5d6f",
   "providerState": {
     "providerSessionId": "bf4974fd-2b21-4e5d-b73d-679ae98f5d6f"
   },
   "usage": {
     "model": "MiniMax-M2.7",
-    "inputTokens": 30937,
+    "inputTokens": 32889,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 30937,
-    "percentage": 15,
+    "contextTokens": 32889,
+    "percentage": 16,
     "contextWindowIsAuthoritative": true
   }
 }
