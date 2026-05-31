@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flix v1 — minimalistic ESP32 quadcopter.md",
+                "file": "okalachevflix Making an ESP32-based quadcopter from scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flix v1 — minimalistic ESP32 quadcopter"
+              "title": "okalachevflix Making an ESP32-based quadcopter from scratch"
             }
           }
         ]
@@ -206,10 +206,11 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "9435c03c643d0571",
+  "active": "9df29c6b25bc3fb1",
   "lastOpenFiles": [
-    "MiniKame Quadruped Robot - A Desktop Robot Building Tutorial from Scratch.md",
     "Flix v1 — minimalistic ESP32 quadcopter.md",
+    "okalachevflix Making an ESP32-based quadcopter from scratch.md",
+    "MiniKame Quadruped Robot - A Desktop Robot Building Tutorial from Scratch.md",
     "EEZYbotARM.md",
     "a8ec11b4285b6d326ed1bb8cc938bc1e.jpg",
     "STEM 科技 教学.md",
@@ -239,7 +240,6 @@
     "2_wiki/concepts/Investment-Framework.md",
     "2_wiki/concepts/CoWoS.md",
     "2_wiki/concepts/CoWoS.md.tmp.9844.1779011054158",
-    "2_wiki/concepts/SOTP-Valuation.md",
     "2_wiki/concepts/SOTP-Valuation.md.tmp.9844.1779011042611",
     "2_wiki/summaries/AMD-AI-Chip-Dark-Horse.md.tmp.9844.1779010980233",
     "X",
