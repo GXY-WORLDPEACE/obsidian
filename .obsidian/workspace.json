@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 922.5
+    "width": 744.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +205,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "9df29c6b25bc3fb1",
+  "active": "bb5a9d50ebf5da0f",
   "lastOpenFiles": [
     "STEM/STEM 科技 教学.md",
     "STEM/EEZYbotARM.md",
