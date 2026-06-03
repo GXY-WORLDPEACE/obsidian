@@ -4,13 +4,12 @@
   "title": "Explain ImageFolderDataset vs MemoryImageFolder...",
   "titleGenerationStatus": "success",
   "createdAt": 1780406060673,
-  "updatedAt": 1780429309872,
-  "lastResponseAt": 1780429309872,
+  "updatedAt": 1780501673559,
+  "lastResponseAt": 1780501673559,
   "sessionId": "b1d775ee-0254-4ce6-93ff-2f8c45d1d558",
   "providerState": {
     "providerSessionId": "b1d775ee-0254-4ce6-93ff-2f8c45d1d558"
   },
-  "currentNote": "1_raw/articles/I2DL/exercise/exercise_03/1_cifar10-image-dataset-summary.md",
   "usage": {
     "model": "MiniMax-M2.7",
     "inputTokens": 0,
