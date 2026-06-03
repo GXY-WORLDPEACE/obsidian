@@ -17,9 +17,64 @@ Exercise 04 实现完整的训练流程，包括模型、损失函数、优化�
 
 | 属性 | 值 |
 |------|-----|
+| **来源** | Housing Price Dataset (Kaggle) |
+| **样本数** | ~1400 房屋 |
+| **原始特征** | 81 个 |
+| **最终特征** | 1 个 (GrLivArea - 居住面积) |
 | **任务** | 二分类（房价高低） |
 | **类别** | 0 (low-priced), 1 (expensive) |
 | **数据划分** | train / validation / test |
+
+## 数据预处理流程 (housing_data_preprocessing.ipynb)
+
+此 notebook 为可选内容，介绍数据预处理步骤。
+
+### 步骤 1: 数据加载
+
+使用 `CSVDataset` 类加载 `housing_train.csv` 数据集。
+
+### 步骤 2: 特征选择
+
+- 原始数据有 80 个特征 + 1 个目标列 (SalePrice)
+- 选择单一特征 `GrLivArea`（居住面积）简化问题
+- 便于 2D 可视化
+
+### 步骤 3: 数据归一化
+
+```python
+# 计算训练集的统计量
+min_val = df.min()
+max_val = df.max()
+mean_val = df.mean()
+
+# 应用 Min-Max 归一化
+normalized = (data - min) / (max - min)
+```
+
+- 将特征缩放到 [0, 1] 范围
+- 使用训练集的统计量应用到所有数据划分
+
+### 步骤 4: 二值化标签
+
+```python
+# 房价分为三类
+# 最低 30% → 0 (low-priced)
+# 中间 40% → 删除
+# 最高 30% → 1 (expensive)
+thirty_percentile = np.percentile(y_all, 30)
+seventy_percentile = np.percentile(y_all, 70)
+```
+
+- 只保留极端价格的房屋
+- 中间段数据被移除
+
+### 预处理后的数据
+
+```
+X_train, y_train → 训练集
+X_val, y_val     → 验证集
+X_test, y_test   → 测试集
+```
 
 ## 完整训练流程
 
