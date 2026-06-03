@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_raw/articles/I2DL/exercise/exercise_04/1_simple_classifier-summary.md",
+                "file": "1_raw/articles/I2DL/exercise/exercise_05/1_NeuralNetworks-summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_simple_classifier-summary"
+              "title": "1_NeuralNetworks-summary"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 387.5
   },
   "right": {
     "id": "21b010ec5a507814",
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 594.5
+    "width": 780.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,44 +207,44 @@
   },
   "active": "bb5a9d50ebf5da0f",
   "lastOpenFiles": [
-    "1_raw/articles/I2DL/exercise/exercise_04/1_simple_classifier-summary.md.tmp.29556.1780502016266",
-    "concepts/Logistic Regression.md",
+    "concepts/He Initialization.md",
+    "concepts/He Initialization.md.tmp.29556.1780517958916",
+    "concepts/Xavier Initialization.md",
+    "concepts/Weight Initialization.md",
+    "concepts/autograd.md",
+    "concepts/autograd.md.tmp.29556.1780517953761",
+    "concepts/TensorBoard.md",
+    "concepts/TensorBoard.md.tmp.29556.1780517952109",
+    "concepts/PyTorch.md",
+    "1_raw/articles/I2DL/exercise/exercise_07/1_pytorch-summary.md",
+    "1_raw/articles/I2DL/exercise/exercise_07/1_pytorch-summary.md.tmp.29556.1780517945839",
+    "concepts/Early Stopping.md",
+    "concepts/Early Stopping.md.tmp.29556.1780517875505",
+    "concepts/Random Search.md",
+    "concepts/Random Search.md.tmp.29556.1780517873890",
+    "concepts/Grid Search.md",
+    "concepts/Hyperparameter Tuning.md",
+    "concepts/Hyperparameter Tuning.md.tmp.29556.1780517870515",
+    "concepts/L2 Regularization.md",
+    "concepts/L1 Regularization.md",
+    "concepts/Weight Regularization.md",
+    "concepts/Weight Regularization.md.tmp.29556.1780517866800",
+    "concepts/Data Augmentation.md",
+    "concepts/Data Augmentation.md.tmp.29556.1780517865216",
+    "concepts/Tanh.md",
+    "concepts/LeakyReLU.md",
+    "concepts/LeakyReLU.md.tmp.29556.1780517861901",
+    "1_raw/articles/I2DL/exercise/exercise_06/1_cifar10_classification-summary.md",
+    "concepts/Softmax.md",
+    "1_raw/articles/I2DL/exercise/exercise_05/1_NeuralNetworks-summary.md",
+    "concepts/Cross-Entropy Loss.md",
+    "concepts/Neural Network.md",
     "1_raw/articles/I2DL/exercise/exercise_04/1_simple_classifier-summary.md",
-    "concepts/Logistic Regression.md.tmp.29556.1780501671499",
-    "concepts/Backward Pass.md",
-    "concepts/Backpropagation.md",
-    "concepts/Gradient Descent.md",
-    "concepts/Binary Cross-Entropy.md",
-    "concepts/Sigmoid Function.md",
-    "concepts/Sigmoid Function.md.tmp.29556.1780501602375",
-    "concepts/Backward Pass.md.tmp.29556.1780501593129",
-    "concepts/Forward Pass.md",
-    "concepts/Forward Pass.md.tmp.29556.1780501591353",
-    "concepts/Gradient Descent.md.tmp.29556.1780501588234",
-    "2_wiki/concepts/Gradient Descent.md",
-    "concepts",
-    "STEM/EEZYbotARM.md",
-    "1_raw/articles/I2DL/exercise/exercise_04/1_simple_classifier-summary.md.tmp.29556.1780501235831",
-    "未命名",
-    "STEM/STEM 科技 教学.md",
-    "STEM",
-    "image",
+    "concepts/Adam Optimizer.md",
+    "concepts/SGD with Momentum.md",
+    "concepts/Affine Layer.md",
     "image/a8ec11b4285b6d326ed1bb8cc938bc1e.jpg",
-    "1_raw/articles/I2DL/exercise/exercise_03/1_cifar10-image-dataset-summary.md",
-    "STEM/Flix v1 — minimalistic ESP32 quadcopter.md",
     "image/Pasted image 20260529142347.png",
-    "STEM/okalachevflix Making an ESP32-based quadcopter from scratch.md",
-    "STEM/MiniKame Quadruped Robot - A Desktop Robot Building Tutorial from Scratch.md",
-    "web news/Will Robotics Have a ChatGPT Moment.md",
-    "web news/The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces.md",
-    "web news/Teilzeit, Krankenstand, 8-Stunden-Tag Was ihr über die Debatte wissen müsst.md",
-    "web news/Talk about HOBBIES Fluently in English.md",
-    "web news/Robotik-Professor DAS ist die Zukunft! Humanoide Roboter, LLMs, AGI & China (Prof. Alois Knoll).md",
-    "web news/1.5 Hour English Conversation Lesson.md",
-    "web news/1.5 小时英语会话课程.md",
-    "web news/Fraunhofer IPA offers new test benchmark for humanoids 1.md",
-    "web news/What I actually do as a Product Manager (in 2023).md",
-    "web news/Fraunhofer IPA offers new test benchmark for humanoids.md",
     "Pasted image 20260429124212.png",
     "1_raw/articles/web news/Pasted image 20260428090822.png"
   ]
