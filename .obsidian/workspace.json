@@ -11,14 +11,12 @@
             "id": "9435c03c643d0571",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1_raw/articles/I2DL/exercise/exercise_05/1_NeuralNetworks-summary.md",
-                "mode": "source",
-                "source": false
+                "file": "1_raw/articles/I2DL/lectures/2.linear.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1_NeuralNetworks-summary"
+              "icon": "lucide-file-text",
+              "title": "2.linear"
             }
           }
         ]
@@ -190,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 780.5
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +203,11 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "bb5a9d50ebf5da0f",
+  "active": "9435c03c643d0571",
   "lastOpenFiles": [
+    "1_raw/articles/I2DL/lectures/3.intro2nn.pdf",
+    "1_raw/articles/I2DL/lectures/4.optimization_and_backprop.pdf",
+    "1_raw/articles/I2DL/exercise/exercise_05/1_NeuralNetworks-summary.md",
     "concepts/He Initialization.md",
     "concepts/He Initialization.md.tmp.29556.1780517958916",
     "concepts/Xavier Initialization.md",
@@ -233,16 +234,13 @@
     "concepts/Data Augmentation.md.tmp.29556.1780517865216",
     "concepts/Tanh.md",
     "concepts/LeakyReLU.md",
-    "concepts/LeakyReLU.md.tmp.29556.1780517861901",
     "1_raw/articles/I2DL/exercise/exercise_06/1_cifar10_classification-summary.md",
     "concepts/Softmax.md",
-    "1_raw/articles/I2DL/exercise/exercise_05/1_NeuralNetworks-summary.md",
     "concepts/Cross-Entropy Loss.md",
     "concepts/Neural Network.md",
     "1_raw/articles/I2DL/exercise/exercise_04/1_simple_classifier-summary.md",
     "concepts/Adam Optimizer.md",
     "concepts/SGD with Momentum.md",
-    "concepts/Affine Layer.md",
     "image/a8ec11b4285b6d326ed1bb8cc938bc1e.jpg",
     "image/Pasted image 20260529142347.png",
     "Pasted image 20260429124212.png",
