@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "1_raw/articles/I2DL/lectures/2.linear.pdf"
+                "file": "1_raw/articles/I2DL/lectures/3.intro2nn.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2.linear"
+              "title": "3.intro2nn"
             }
           }
         ]
@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 589.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +203,16 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "9435c03c643d0571",
+  "active": "bb5a9d50ebf5da0f",
   "lastOpenFiles": [
-    "1_raw/articles/I2DL/lectures/3.intro2nn.pdf",
     "1_raw/articles/I2DL/lectures/4.optimization_and_backprop.pdf",
+    "1_raw/articles/I2DL/lectures/9.convnets.pdf",
+    "1_raw/articles/I2DL/lectures/8.augmentation_and_regularization.pdf",
+    "1_raw/articles/I2DL/lectures/7.losses_and_activations.pdf",
+    "1_raw/articles/I2DL/lectures/6.trainingnn.pdf",
+    "1_raw/articles/I2DL/lectures/5.scaling_optimization.pdf",
+    "1_raw/articles/I2DL/lectures/3.intro2nn.pdf",
+    "1_raw/articles/I2DL/lectures/2.linear.pdf",
     "1_raw/articles/I2DL/exercise/exercise_05/1_NeuralNetworks-summary.md",
     "concepts/He Initialization.md",
     "concepts/He Initialization.md.tmp.29556.1780517958916",
@@ -218,20 +224,14 @@
     "concepts/TensorBoard.md.tmp.29556.1780517952109",
     "concepts/PyTorch.md",
     "1_raw/articles/I2DL/exercise/exercise_07/1_pytorch-summary.md",
-    "1_raw/articles/I2DL/exercise/exercise_07/1_pytorch-summary.md.tmp.29556.1780517945839",
     "concepts/Early Stopping.md",
-    "concepts/Early Stopping.md.tmp.29556.1780517875505",
     "concepts/Random Search.md",
-    "concepts/Random Search.md.tmp.29556.1780517873890",
     "concepts/Grid Search.md",
     "concepts/Hyperparameter Tuning.md",
-    "concepts/Hyperparameter Tuning.md.tmp.29556.1780517870515",
     "concepts/L2 Regularization.md",
     "concepts/L1 Regularization.md",
     "concepts/Weight Regularization.md",
-    "concepts/Weight Regularization.md.tmp.29556.1780517866800",
     "concepts/Data Augmentation.md",
-    "concepts/Data Augmentation.md.tmp.29556.1780517865216",
     "concepts/Tanh.md",
     "concepts/LeakyReLU.md",
     "1_raw/articles/I2DL/exercise/exercise_06/1_cifar10_classification-summary.md",
