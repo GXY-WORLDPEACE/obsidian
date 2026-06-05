@@ -4,20 +4,20 @@
   "title": "Explain ImageFolderDataset vs MemoryImageFolder...",
   "titleGenerationStatus": "success",
   "createdAt": 1780406060673,
-  "updatedAt": 1780598493528,
-  "lastResponseAt": 1780598493528,
+  "updatedAt": 1780690058895,
+  "lastResponseAt": 1780690058895,
   "sessionId": "b1d775ee-0254-4ce6-93ff-2f8c45d1d558",
   "providerState": {
     "providerSessionId": "b1d775ee-0254-4ce6-93ff-2f8c45d1d558"
   },
   "usage": {
     "model": "MiniMax-M2.7",
-    "inputTokens": 116467,
+    "inputTokens": 0,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 116467,
-    "percentage": 58,
+    "contextTokens": 0,
+    "percentage": 0,
     "contextWindowIsAuthoritative": true
   }
 }

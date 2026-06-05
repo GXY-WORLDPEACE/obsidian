@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 642.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +205,8 @@
   },
   "active": "bb5a9d50ebf5da0f",
   "lastOpenFiles": [
+    "1_raw/articles/I2DL/exercise/exercise_04/housing_data_preprocessing-summary.md",
+    "1_raw/articles/I2DL/exercise/exercise_04/housing_data_preprocessing-summary.md.tmp.28536.1780689998179",
     "1_raw/articles/I2DL/lectures/4.optimization_and_backprop.pdf",
     "1_raw/articles/I2DL/lectures/9.convnets.pdf",
     "1_raw/articles/I2DL/lectures/8.augmentation_and_regularization.pdf",
@@ -219,9 +221,7 @@
     "concepts/Xavier Initialization.md",
     "concepts/Weight Initialization.md",
     "concepts/autograd.md",
-    "concepts/autograd.md.tmp.29556.1780517953761",
     "concepts/TensorBoard.md",
-    "concepts/TensorBoard.md.tmp.29556.1780517952109",
     "concepts/PyTorch.md",
     "1_raw/articles/I2DL/exercise/exercise_07/1_pytorch-summary.md",
     "concepts/Early Stopping.md",
