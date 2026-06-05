@@ -11,12 +11,14 @@
             "id": "9435c03c643d0571",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1_raw/articles/I2DL/lectures/3.intro2nn.pdf"
+                "file": "1_raw/articles/I2DL/exercise/exercise_04/housing_data_preprocessing-summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "3.intro2nn"
+              "icon": "lucide-file",
+              "title": "housing_data_preprocessing-summary"
             }
           }
         ]
@@ -203,8 +205,9 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "bb5a9d50ebf5da0f",
+  "active": "9435c03c643d0571",
   "lastOpenFiles": [
+    "1_raw/articles/I2DL/lectures/3.intro2nn.pdf",
     "1_raw/articles/I2DL/exercise/exercise_04/housing_data_preprocessing-summary.md",
     "1_raw/articles/I2DL/exercise/exercise_04/housing_data_preprocessing-summary.md.tmp.28536.1780689998179",
     "1_raw/articles/I2DL/lectures/4.optimization_and_backprop.pdf",
@@ -213,7 +216,6 @@
     "1_raw/articles/I2DL/lectures/7.losses_and_activations.pdf",
     "1_raw/articles/I2DL/lectures/6.trainingnn.pdf",
     "1_raw/articles/I2DL/lectures/5.scaling_optimization.pdf",
-    "1_raw/articles/I2DL/lectures/3.intro2nn.pdf",
     "1_raw/articles/I2DL/lectures/2.linear.pdf",
     "1_raw/articles/I2DL/exercise/exercise_05/1_NeuralNetworks-summary.md",
     "concepts/He Initialization.md",
@@ -240,7 +242,6 @@
     "concepts/Neural Network.md",
     "1_raw/articles/I2DL/exercise/exercise_04/1_simple_classifier-summary.md",
     "concepts/Adam Optimizer.md",
-    "concepts/SGD with Momentum.md",
     "image/a8ec11b4285b6d326ed1bb8cc938bc1e.jpg",
     "image/Pasted image 20260529142347.png",
     "Pasted image 20260429124212.png",
