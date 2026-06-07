@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 254.5
   },
   "right": {
     "id": "21b010ec5a507814",
@@ -205,7 +205,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "9435c03c643d0571",
+  "active": "bb5a9d50ebf5da0f",
   "lastOpenFiles": [
     "1_raw/articles/I2DL/lectures/3.intro2nn.pdf",
     "1_raw/articles/I2DL/exercise/exercise_04/housing_data_preprocessing-summary.md",
