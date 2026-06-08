@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_raw/articles/I2DL/exercise/exercise_04/housing_data_preprocessing-summary.md",
+                "file": "web news/Understanding Calculus (for engineers).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "housing_data_preprocessing-summary"
+              "title": "Understanding Calculus (for engineers)"
             }
           }
         ]
@@ -205,10 +205,11 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "bb5a9d50ebf5da0f",
+  "active": "9435c03c643d0571",
   "lastOpenFiles": [
-    "1_raw/articles/I2DL/lectures/3.intro2nn.pdf",
     "1_raw/articles/I2DL/exercise/exercise_04/housing_data_preprocessing-summary.md",
+    "web news/Understanding Calculus (for engineers).md",
+    "1_raw/articles/I2DL/lectures/3.intro2nn.pdf",
     "1_raw/articles/I2DL/exercise/exercise_04/housing_data_preprocessing-summary.md.tmp.28536.1780689998179",
     "1_raw/articles/I2DL/lectures/4.optimization_and_backprop.pdf",
     "1_raw/articles/I2DL/lectures/9.convnets.pdf",
