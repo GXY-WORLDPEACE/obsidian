@@ -1,15 +1,16 @@
 {
   "id": "conv-1780406060672-ortyl1ee0",
   "providerId": "claude",
-  "title": "Explain ImageFolderDataset vs MemoryImageFolder...",
+  "title": "Greet user in Chinese",
   "titleGenerationStatus": "success",
   "createdAt": 1780406060673,
-  "updatedAt": 1781013567242,
-  "lastResponseAt": 1781013567242,
+  "updatedAt": 1781775666417,
+  "lastResponseAt": 1781775665346,
   "sessionId": "b1d775ee-0254-4ce6-93ff-2f8c45d1d558",
   "providerState": {
     "providerSessionId": "b1d775ee-0254-4ce6-93ff-2f8c45d1d558"
   },
+  "currentNote": "X/基准测试.md",
   "usage": {
     "model": "MiniMax-M2.7",
     "inputTokens": 0,

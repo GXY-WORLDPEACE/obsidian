@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 430.5
   },
   "right": {
     "id": "21b010ec5a507814",
@@ -171,8 +171,8 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
             }
           },
           {
@@ -201,14 +201,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "claudian:Open Claudian": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e8ee20da8ddb3346",
   "lastOpenFiles": [
-    "1_raw/articles/I2DL/exercise/exercise_06/1_cifar10_classification-summary.md",
+    "2_wiki/concepts/Attention Mechanism.md",
+    "concepts/Adam Optimizer.md",
     "X/基准测试.md",
+    "1_raw/articles/I2DL/exercise/exercise_06/1_cifar10_classification-summary.md",
     "web news/Understanding Calculus (for engineers).md",
     "1_raw/articles/I2DL/exercise/exercise_04/housing_data_preprocessing-summary.md",
     "1_raw/articles/I2DL/lectures/3.intro2nn.pdf",
@@ -241,8 +242,6 @@
     "concepts/LeakyReLU.md",
     "concepts/Softmax.md",
     "concepts/Cross-Entropy Loss.md",
-    "concepts/Neural Network.md",
-    "1_raw/articles/I2DL/exercise/exercise_04/1_simple_classifier-summary.md",
     "image/a8ec11b4285b6d326ed1bb8cc938bc1e.jpg",
     "image/Pasted image 20260529142347.png",
     "Pasted image 20260429124212.png",
